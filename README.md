@@ -2,7 +2,7 @@
 
 A single-page personal portfolio website built to showcase my journey as a Computer Science Engineering student transitioning into Data Analytics and Data Engineering.
 
-🔗 **Live site:** _(add your GitHub Pages / hosting link here)_
+🔗 **Live site:** _(https://myporfoliomohdzunai-d.netlify.app)_
 
 ---
 
