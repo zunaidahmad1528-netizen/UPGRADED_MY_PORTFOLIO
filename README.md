@@ -50,6 +50,6 @@ cd <repo-name>
 
 ---
 
-⭐ If you like this portfolio design, feel free to star the repo!
+If you like this portfolio design, feel free to star the repo!
 
-## 📁 Project Structure
+##  Project Structure
